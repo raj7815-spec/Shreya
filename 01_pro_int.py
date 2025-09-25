@@ -14,12 +14,12 @@ servings = 4
 milk_per_serving = milk_litres / servings
 print(f"Milk per serving is {milk_per_serving}")
 
-total_tea_bags = 7
+total_tea_bags = 9
 pots = 4
 bags_per_pot = total_tea_bags // pots
 print(f"While tea bags per pot: {bags_per_pot}")
 
-total_cadamom_pods = 10
+total_cadamom_pods = 11
 pods_per_cup = 3
 leftover_pods = total_cadamom_pods % pods_per_cup
 print(f"Leftover C pods {leftover_pods}")

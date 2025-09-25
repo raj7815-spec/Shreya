@@ -30,5 +30,5 @@ powerful_falvour = base_flavor_strength ** scale_factor
 print(f"Scaled flavour strenght {powerful_falvour}")
 # 2 * 2 * 2
 
-total_tea_leaves_harvested = 1_000_000_000_000
+total_tea_leaves_harvested = 1_000_000_000
 print(f"tea leaves: {total_tea_leaves_harvested}")
