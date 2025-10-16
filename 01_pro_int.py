@@ -1,6 +1,6 @@
 # Interger
 
-black_tea_grams = 20
+black_tea_grams = 40
 ginger_grams = 411
 
 total_grams = black_tea_grams + ginger_grams
