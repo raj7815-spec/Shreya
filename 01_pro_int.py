@@ -1,7 +1,7 @@
 # Interger
 
-black_tea_grams = 20
-ginger_grams = 311
+black_tea_grams = 80
+ginger_grams = 511
 
 total_grams = black_tea_grams + ginger_grams
 print(f"Total grams of base tea is {total_grams}")
